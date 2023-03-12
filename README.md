@@ -1,7 +1,7 @@
 # Tema1_APD
-*ALEXANDRESCU MARIUS-CRISTIAN*
+*ALEXANDRESCU MARIUS-CRISTIAN - 331CB*
 
-*331CB*
+*Tema 1 - APD*
 
 Citesc din fisierul dat ca input numele celorlalte fisiere de input si le pun intr-o lista.
 Aceasta lista impreuna cu alte valori se afla intr-o structura alocata dinamic. Aceasta structura
